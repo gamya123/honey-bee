@@ -20,4 +20,13 @@ This project demonstrates how a static frontend application can be packaged into
 - CSS3 (Animations)  
 - Docker  
 - Nginx  
-- Git & GitHub  
+- Git & GitHub
+
+# project structure 
+honey-bee/
+* │── index.html
+* │── style.css
+* │── Dockerfile
+* │── README.md
+
+
